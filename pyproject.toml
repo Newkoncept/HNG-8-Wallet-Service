@@ -1,7 +1,7 @@
 [project]
 name = "hng-8"
 version = "0.1.0"
-description = "Add your description here"
+description = "FastAPI wallet service with OAuth, JWT authentication, API keys, Paystack deposits, webhooks, transfers, and transaction tracking."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
