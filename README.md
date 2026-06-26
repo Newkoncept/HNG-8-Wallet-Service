@@ -132,7 +132,7 @@ Set webhook URL in Paystack dashboard:
 
 **Install:**
 
-    pip install -r requirements.txt 
+    uv sync
                 OR
     uv pip install .
 
